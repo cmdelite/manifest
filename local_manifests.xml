@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-<!-- Remotes -->
-  <remote name="github"
-          fetch="https://github.com" />
-
+  
   <!-- Samsung Galaxy Tab S6 Lite 2020 Device Trees -->    
   <project name="LineageOS/android_device_samsung_gta4xl-common" path="device/samsung/gta4xl-common" remote="github" revision="lineage-22.2" clone-depth="1" />
   <project name="LineageOS/android_device_samsung_gta4xlwifi" path="device/samsung/gta4xlwifi" remote="github" revision="lineage-22.2" clone-depth="1" />
