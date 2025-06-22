@@ -7,7 +7,7 @@
   
   <!-- Samsung Galaxy Tab S6 Lite 2020 Device Trees -->    
   <project name="cmdelite/android_device_samsung_gta4xl-common" path="device/samsung/gta4xl-common" remote="github" revision="lineage-22.2" clone-depth="1" />
-  <project name="cmdelite/android_device_samsung_gta4xlwifi" path="device/samsung/gta4xlwifi" remote="github" revision="lineage-22.2" clone-depth="1" />
+  <project name="cmdelite/android_device_samsung_gta4xlwifi" path="device/samsung/gta4xlwifi" remote="github" revision="axion" clone-depth="1" />
   <project name="LineageOS/android_device_samsung_gta4xl" path="device/samsung/gta4xl" remote="github" revision="lineage-22.2" clone-depth="1" />
   <project name="LineageOS/android_kernel_samsung_gta4xl" path="kernel/samsung/gta4xl" remote="github" revision="lineage-22.2" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4xl" path="vendor/samsung/gta4xl" remote="github" revision="lineage-22.2" clone-depth="1" />
