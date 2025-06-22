@@ -23,6 +23,6 @@
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" remote="github" revision="lineage-22.2" clone-depth="1" />
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" remote="github" revision="lineage-22.2" clone-depth="1" />
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces" remote="github" revision="lineage-22.2" clone-depth="1" />
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-22.2" clone-depth="1" />
+  <project name="cmdelite/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-22.2" clone-depth="1" />
   
 </manifest>
